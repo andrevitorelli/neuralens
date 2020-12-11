@@ -1,0 +1,17 @@
+neuralens
+=========
+
+
+.. automodule:: neuralens
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   neuralens.example
+   neuralens.tests

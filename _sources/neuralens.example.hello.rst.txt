@@ -1,0 +1,7 @@
+neuralens.example.hello
+-----------------------
+
+.. automodule:: neuralens.example.hello
+   :members:
+   :undoc-members:
+   :show-inheritance:

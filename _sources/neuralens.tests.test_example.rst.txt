@@ -1,0 +1,7 @@
+neuralens.tests.test\_example
+-----------------------------
+
+.. automodule:: neuralens.tests.test_example
+   :members:
+   :undoc-members:
+   :show-inheritance:
